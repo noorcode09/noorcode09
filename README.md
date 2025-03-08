@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... explore new technologies
 - 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ... web aplication
-- 📫 How to reach me ...
+- 📫 How to reach me ... noorcode09@gmail.com
 - 😄 Pronouns: ... mohammad mustaqueem
 - ⚡ Fun fact: ... let's code and grow more 
 
